@@ -1,5 +1,7 @@
 Data Science Rookie @iQubeLabs LWU
-#DataScience #AI #ML
-#SoftwareDevelopment by the end of 2021
+
+Artificial Intelligence and Software (Backend) Engineer
+
+#Django, #NodeJS, #Tensorflow
 
 email: davidoluwatobi41@gmail.com
